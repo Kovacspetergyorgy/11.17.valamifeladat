@@ -20,14 +20,13 @@ namespace nemnemnem
             public string val4;
             public string hval;
 
-           
 
         }
         static List<kerders1> list = new List<kerders1>();
         static void nem(string path)
         {
             StreamReader file = new StreamReader(path);
-            
+
 
             while (!file.EndOfStream)
             {
@@ -52,14 +51,14 @@ namespace nemnemnem
             nem("kerdesek1.txt");
 
             Console.WriteLine("Kivz: ");
-            Console.WriteLine("1.Kérdés");
+            Console.WriteLine("Kérdések");
             foreach (var item in list)
             {
                 Console.WriteLine(item.kerdes);
-                Console.WriteLine("     a,"+item.val1);
-                Console.WriteLine("     b,"+item.val2);
-                Console.WriteLine("     c,"+item.val3);
-                Console.WriteLine("     d,"+item.val4);
+                Console.WriteLine("     a," + item.val1);
+                Console.WriteLine("     b," + item.val2);
+                Console.WriteLine("     c," + item.val3);
+                Console.WriteLine("     d," + item.val4);
                 Console.WriteLine("     ");
                 Console.WriteLine("Válasz betűje:");
                 string asd = Console.ReadLine();
@@ -78,8 +77,10 @@ namespace nemnemnem
 
                 }
             }
-            
 
+            Console.WriteLine("     ");
+            Console.WriteLine("Vége, nincs tőbb kérdés");
+            Console.WriteLine("     ");
 
 
             Console.ReadKey();
@@ -87,4 +88,3 @@ namespace nemnemnem
 
     }
 }
-
