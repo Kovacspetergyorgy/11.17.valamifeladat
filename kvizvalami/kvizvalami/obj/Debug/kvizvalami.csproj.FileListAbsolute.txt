@@ -1,0 +1,8 @@
+D:\Ranni feet pics\kvizvalami\kvizvalami\bin\Debug\kvizvalami.exe.config
+D:\Ranni feet pics\kvizvalami\kvizvalami\bin\Debug\kvizvalami.exe
+D:\Ranni feet pics\kvizvalami\kvizvalami\bin\Debug\kvizvalami.pdb
+D:\Ranni feet pics\kvizvalami\kvizvalami\obj\Debug\kvizvalami.csproj.AssemblyReference.cache
+D:\Ranni feet pics\kvizvalami\kvizvalami\obj\Debug\kvizvalami.csproj.SuggestedBindingRedirects.cache
+D:\Ranni feet pics\kvizvalami\kvizvalami\obj\Debug\kvizvalami.csproj.CoreCompileInputs.cache
+D:\Ranni feet pics\kvizvalami\kvizvalami\obj\Debug\kvizvalami.exe
+D:\Ranni feet pics\kvizvalami\kvizvalami\obj\Debug\kvizvalami.pdb
