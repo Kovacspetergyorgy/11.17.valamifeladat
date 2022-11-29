@@ -1,0 +1,8 @@
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\bin\Debug\11.17.valamifeladat.exe.config
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\bin\Debug\11.17.valamifeladat.exe
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\bin\Debug\11.17.valamifeladat.pdb
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\obj\Debug\11.17.valamifeladat.csproj.AssemblyReference.cache
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\obj\Debug\11.17.valamifeladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\obj\Debug\11.17.valamifeladat.csproj.CoreCompileInputs.cache
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\obj\Debug\11.17.valamifeladat.exe
+C:\Users\kovacs_peter_gyorgy\Documents\igen\11.17.valamifeladat\11.17.valamifeladat\obj\Debug\11.17.valamifeladat.pdb

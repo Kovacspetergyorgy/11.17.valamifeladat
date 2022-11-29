@@ -1,0 +1,10 @@
+1.Hány JoJo part van meganimálva?	8	5	6	7	c	C
+2.Mi Giorno standjének a neve? (part 5)	Gold Experience	Purple Haze	Sticky Fingers	Moody Blues	a	A
+3.Mi a JoJo part 4-nek a címe?	Battle Tendency	Phantom Blood	Stardust Crusaders	Diamond Is Unbreakable	d	D
+4.Ki a JoJo part 1 főszereplője?	Jonathan Joestar	Jotaro Kujo	Joseph Joestar	George Joestar	a	A
+5.Mi Kira standjének a neve? (part 4)	The Hand	Killer Queen	Hermit Purple	Star Platinum	b
+6.Mivel szerezhettek standet a karakterek part 3-tól 6-ig?	The stand gun	The stand arrow	the devil's palm	Jézus testrészei	b	B
+7.Mivel szerezhettek standet a karakterek part 7 és 8-ban?	The stand gun	The stand arrow	the devil's palm	Jézus testrészei	d	D
+8.Ki ölte meg először Diavolot? (part 5)	Giorno	egy kis lány	egy hajléktalan	Doppio	c	C
+9.Hány éves Yoshikage Kira? (part 4)	33	28	32	45	a	A
+10.Mi Dio standjének a neve? (part 3-6)	Star Platinum	 Scary Monsters	Tusk	The World	d	D
